@@ -1,0 +1,18 @@
+mkdir foldername
+cd foldername
+touch filename
+cat filename
+
+
+Tracking Folder
+git init
+
+Modify Files
+git add .
+
+Message 
+git commit  -m "MyPortfolio"
+
+
+To Check Message 
+git log
